@@ -5,8 +5,6 @@
 
 - 👯 I’m collaborate on [EstafaMlibre](https://github.com/agustingu20/estafa-mlibre)
 
-- 👨‍💻 All of my projects are available at [En proceso](En proceso)
-
 - 📫 How to reach me **alejandro4juan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
